@@ -1,0 +1,40 @@
+.font-h1{
+    font-size: 96px;
+font-family: "SFPRODISPLAYREGULAR";
+font-weight: 900;
+line-height: 96px;
+letter-spacing: 6.24px;
+}
+
+.font-display{
+    font-size: 24px;
+    font-family: "SFPRODISPLAYREGULAR";
+    font-weight: 500;
+letter-spacing: 3.84px;
+text-transform: lowercase;
+}
+
+.font-light{
+    font-family: "SFPRODISPLAYMEDIUM";
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 18px;
+    letter-spacing: 8.1px;
+    text-transform: uppercase;}
+
+    .red{
+        color: #EB5757;
+    
+    }
+
+
+    .font-h3{
+        font-family: "SFPRODISPLAYREGULAR";
+        font-size: 36px;
+        font-family: SF Pro Display;
+        line-height: 18px;
+        letter-spacing: 8.88px;
+        color: #4f4f4f;
+    }
+
+    
